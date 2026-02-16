@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Varsha! 👋
 
-<!--
-**varshajainu/varshajainu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Java Full Stack Developer | Analyst at Capgemini
+I am a passionate Software Engineer focused on building **scalable**, **secure**, and **high-performance** web applications. I enjoy solving complex problems in distributed systems and am currently sharpening my skills in System Design and DSA to transition into product-based environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolbox
+* **Backend:** Java (Spring Boot), Microservices, REST APIs
+* **Frontend:** Angular, TypeScript, RxJS, Chart.js
+* **Databases & Caching:** PostgreSQL, MySQL, Redis
+* **DevOps:** Docker, Docker Compose, Git, Jenkins
+
+### 🌟 Featured Project
+**[Distributed Rate Limiter & Security Dashboard]()**
+Implemented a high-concurrency rate limiting system using **Redis** and **Spring Boot**, featuring a real-time **Angular** dashboard for security observability.
+
+---
+
+### 📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/varsha-priya-jainu-317193210
