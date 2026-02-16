@@ -18,4 +18,4 @@ Implemented a high-concurrency rate limiting system using **Redis** and **Spring
 ---
 
 ### 📫 Connect with me:
-LinkedIn: https://www.linkedin.com/in/varsha-priya-jainu-317193210
+**LinkedIn:** https://www.linkedin.com/in/varsha-priya-jainu-317193210
